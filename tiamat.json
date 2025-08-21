@@ -5,18 +5,9 @@
   "image": "https://raw.githubusercontent.com/TokenizeBlock/Tiamat/main/TIAMAT%20LOGO%20Transparent.png",
   "external_url": "https://github.com/TokenizeBlock/Tiamat",
   "attributes": [
-    {
-      "trait_type": "Mythology",
-      "value": "Dragon"
-    },
-    {
-      "trait_type": "Element",
-      "value": "Hydrogen"
-    },
-    {
-      "trait_type": "Origin",
-      "value": "Seeded by $LIGHT"
-    }
+    {"trait_type": "Mythology","value": "Dragon"},
+    {"trait_type": "Element","value": "Hydrogen"},
+    {"trait_type": "Origin","value": "Seeded by $LIGHT"}
   ],
   "properties": {
     "files": [
@@ -28,7 +19,7 @@
     "category": "image",
     "creators": [
       {
-        "address": "HE6zjZhejbS9uMJXVhTwUS3e1Fm5oh1GyJ52FQ13xDUi",
+        "address": "GYdep6sXP2KFvTzWJoSifTB7PXEJTTNWHxz5n84C5nGe",
         "share": 100
       }
     ]
