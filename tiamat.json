@@ -1,6 +1,6 @@
 {
   "name": "TIAMAT",
-  "symbol": "TIAMAT",
+  "symbol": "TMT",
   "description": "TIAMAT — Hydrogen’s bearer, seeded by $LIGHT. The dragon awakens.",
   "image": "https://raw.githubusercontent.com/TokenizeBlock/Tiamat/main/TIAMAT%20LOGO%20Transparent.png",
   "external_url": "https://github.com/TokenizeBlock/Tiamat",
@@ -26,3 +26,4 @@
     ]
   }
 }
+
