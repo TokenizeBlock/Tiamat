@@ -4,6 +4,7 @@
   "description": "TIAMAT — Hydrogen’s bearer, seeded by $LIGHT. The dragon awakens.",
   "image": "https://raw.githubusercontent.com/TokenizeBlock/Tiamat/main/TIAMAT%20LOGO%20Transparent.png",
   "external_url": "https://github.com/TokenizeBlock/Tiamat",
+  "seller_fee_basis_points": 500,
   "attributes": [
     {"trait_type": "Mythology","value": "Dragon"},
     {"trait_type": "Element","value": "Hydrogen"},
@@ -25,4 +26,3 @@
     ]
   }
 }
-
